@@ -1,11 +1,7 @@
 # Zepellin1000
 
 <img src="[markdownmonstericon.png](https://user-images.githubusercontent.com/122213041/215332215-d6285edf-afcf-41c0-bd51-977fbf6407cb.jpg)"
-     alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-
-
-https://user-images.githubusercontent.com/122213041/215332215-d6285edf-afcf-41c0-bd51-977fbf6407cb.jpg
 
 ## Aspsiring Data Analyst / Data Scientist
 
