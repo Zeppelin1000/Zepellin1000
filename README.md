@@ -1,7 +1,7 @@
-# Zepellin1000
+# Zepellin1000 - Paul Aughterson
 
-<img src="[markdownmonstericon.png](https://user-images.githubusercontent.com/122213041/215332215-d6285edf-afcf-41c0-bd51-977fbf6407cb.jpg)"
-     style="float: left; margin-right: 10px;" />
+![PAPhoto2](https://user-images.githubusercontent.com/122213041/215351982-8e3bd231-eaa3-43c1-8159-8bd59f875ddd.jpg)
+
 
 ## Aspsiring Data Analyst / Data Scientist
 
