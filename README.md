@@ -9,7 +9,7 @@ Welcome to my GitHub home page. I have only recently set this up, but I am excit
 
 I have recently finished a 4 month Bootcamp with Hyperion Dev and I am looking to land a role in the tech industry.  The content covered on the course included the following;
 
-+ Python programming (all technical tasks carried out in Python(VSC))
++ Python programming (all technical tasks carried out in Python - VSC)
 + 53 assignments including 7 project assignments
 + EDA, Data Analysis and Data Visualisation using a variety of libraries and Tableau
 + Writing both procedural, iterative and OO code in a variety of systems
