@@ -17,7 +17,7 @@ I have recently finished a 4 month Bootcamp with Hyperion Dev and I am looking t
 + ML (regression,  decision trees, image processing, clustering and PCA)
 + Basics of GitHub.
 
-In addition to the above, I have recently gained certification in Data Analysis with Python and Scientific Computing with Python from the <b>freeCodeCamp<b>  https://www.freecodecamp.org/certification/fcc467aa05a-75fc-4b9a-92d6-8db59e8ed06f/data-analysis-with-python-v7
+In addition to the above, I have recently gained certification in Data Analysis with Python and Scientific Computing with Python from the <b>freeCodeCamp<b><br> https://www.freecodecamp.org/certification/fcc467aa05a-75fc-4b9a-92d6-8db59e8ed06f/data-analysis-with-python-v7
 https://www.freecodecamp.org/certification/fcc467aa05a-75fc-4b9a-92d6-8db59e8ed06f/scientific-computing-with-python-v7
 
 Please see details of a project I did on clustering and PCA here: https://github.com/Zeppelin1000/finalCapstone
