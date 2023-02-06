@@ -1,4 +1,4 @@
-# Zepellin1000 - Paul Aughterson
+# Zeppelin1000 - Paul Aughterson
 
 ![PAPhoto2](https://user-images.githubusercontent.com/122213041/215351982-8e3bd231-eaa3-43c1-8159-8bd59f875ddd.jpg)
 
