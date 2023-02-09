@@ -20,7 +20,7 @@ I have recently finished a 4 month Bootcamp with Hyperion Dev and I am looking t
 In addition to the above, I have recently gained certification in Data Analysis with Python and Scientific Computing with Python from the <b>freeCodeCamp<b><br> https://www.freecodecamp.org/certification/fcc467aa05a-75fc-4b9a-92d6-8db59e8ed06f/data-analysis-with-python-v7<br>
 https://www.freecodecamp.org/certification/fcc467aa05a-75fc-4b9a-92d6-8db59e8ed06f/scientific-computing-with-python-v7
 
-Please see details of a project I did on clustering and PCA here: https://github.com/Zeppelin1000/finalCapstone
+Please see details of a project I did on clustering and PCA here: https://github.com/Zeppelin1000/finalCapstone<br>
 The Birthday Problem: https://github.com/Zeppelin1000/Birthday-Problem
 
 My Linkin profile: https://www.linkedin.com/in/paught-70a42023b/
