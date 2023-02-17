@@ -24,6 +24,6 @@ Please see details of a project I did on clustering and PCA here: https://github
   
 The Birthday Problem: https://github.com/Zeppelin1000/Birthday-Problem
 
-Forbes Highest paid Atletes (pdf format):
+Forbes Highest paid Atletes (pdf format): https://github.com/Zeppelin1000/EDA_docCaptstoneIV/blob/main/EDA_docCaptstoneIV.pdf
 
 My Linkin profile: https://www.linkedin.com/in/paught-70a42023b/
